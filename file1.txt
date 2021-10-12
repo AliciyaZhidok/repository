@@ -1,9 +1,5 @@
 Hello world!!!
 123
-
-<<<<<<< HEAD
-789
-=======
 456
->>>>>>> debc24aa55b041d4637feb54dffb3160025f04fa
+
 ok
